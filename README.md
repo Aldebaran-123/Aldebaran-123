@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">Hi 👋  你好</h1>
+<h1 align="center">全体保持严肃</h1>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aldebaran-123&show_icons=true&theme=radical)
 
