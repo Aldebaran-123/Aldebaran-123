@@ -14,13 +14,7 @@
 
 <p align="center">
   <a href="https://github.com/Aldebaran-123">
-    <img src="https://github.com/Aldebaran-123.png" width="200" height="200" alt="Your Avatar"/>
-  </a>
-</p>
-
-<h1 align="center">全体保持严肃</h1>
-<!-- 头像和欢迎语 -->
-<p align="center">
+   
   
   
 
