@@ -1,3 +1,17 @@
+# 欢迎来到我的主页
+* 来自内蒙古呼和浩特
+* 就读于中南民族大学
+* 正在学习中，请多指教
+* 热爱生活，热爱一切
+
+
+
+
+
+
+
+
+
 <p align="center">
   <a href="https://github.com/Aldebaran-123">
     <img src="https://github.com/Aldebaran-123.png" width="200" height="200" alt="Your Avatar"/>
@@ -12,10 +26,6 @@
 
 <h1 align="center">Hi 这里是Aldebaran-123的主页 👋</h1>
 
-<!-- 个人简介 -->
-<p align="center">
-  热爱生活
-</p>
 
 <!-- GitHub 动态统计 -->
 <p align="center">
