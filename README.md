@@ -1,16 +1,15 @@
-## 脑壳痛
+<p align="center">
+  <a href="https://github.com/your-username">
+    <img src="https://github.com/your-username.png" width="150" height="150" alt="Your Avatar"/>
+  </a>
+</p>
 
-<!--
-**Aldebaran-123/Aldebaran-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋  你好</h1>
 
-Here are some ideas to get you started:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aldebaran-123&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aldebaran-123&layout=compact&theme=radical)
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Aldebaran-123.your-username)
+
+
