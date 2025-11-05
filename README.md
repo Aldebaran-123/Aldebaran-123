@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Aldebaran-123">
-    <img src="https://github.com/Aldebaran-123.png" width="150" height="150" alt="Your Avatar"/>
+    <img src="https://github.com/Aldebaran-123.png" width="200" height="200" alt="Your Avatar"/>
   </a>
 </p>
 
